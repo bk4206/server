@@ -3,7 +3,6 @@ colorama-0.4.4
 Flask-2.0.2
 importlih-metadata-4.8.2
 Itsdangerous-2.0.1
-2inja23.9.3 MarkupSafe 2.0.1
 typing-extensions-4.0.0
 Werkzeug-2.0.2
 ipp-3.6.0
